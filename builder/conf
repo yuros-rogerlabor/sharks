@@ -1,11 +1,11 @@
-title="zaza"
+title="Sharks"
 hosts="https://localhost/"
 langs="en-US"
 
-github_publishe=yuros-rogerlabor
-github_upstream=yuros-rogerlabor/geraldo
-github_packager=yuros-rogerlabor/geraldo
+github_publishe=dimasyogairtanto-spec
+github_upstream=yuros-rogerlabor/sharks
+github_packager=yuros-rogerlabor/sharks
 
-gitlab_upstream=yuros-rogerlabor/geraldo
-gitlab_packager=yuros-rogerlabor/geraldo
+gitlab_upstream=yuros-rogerlabor/sharks
+gitlab_packager=yuros-rogerlabor/sharks
 
